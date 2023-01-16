@@ -1,2 +1,2 @@
 # MongoDB_Presentation
-powerpoint monogDB presentation
+MongoDB Presentation that explain the gives you an overview about it and some features.
